@@ -37,7 +37,7 @@ I thrive on **solving complex engineering problems**, writing clean maintainable
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### 👨‍💻 Languages
 <p>
@@ -125,3 +125,16 @@ I thrive on **solving complex engineering problems**, writing clean maintainable
 ---
 
 ## 🎯 Core Expertise
+
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+
+### ⭐ Thanks for visiting my profile!
+
+*Building scalable software with clean architecture and measurable impact.*
+
+</div>
